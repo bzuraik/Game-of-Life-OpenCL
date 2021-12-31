@@ -1,15 +1,11 @@
-#ifndef A4_3090
-#define A4_3090
-#define PROGRAM_FILE "a4.cl"
-#define KERNEL_FUNC "a4"
-
+#define PROGRAM_FILE "GOL.cl"
+#define KERNEL_FUNC "GOL"
 #ifdef MAC
 #include <OpenCL/cl.h>
 #else
 #include <CL/cl.h>
 #endif
 
-//DISCLAIMER: This assignment references code provided by Professor Dennis Nikitenko
 
 #include <stdio.h>
 #include <stdlib.h>
