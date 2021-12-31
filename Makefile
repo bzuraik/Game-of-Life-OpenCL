@@ -1,8 +1,8 @@
 CC=gcc
 CFLAGS= -Wpedantic -std=gnu99 -g
 
-## References code provided by Professor Dennis Nikitenko:: START
-PROJ= a4
+
+PROJ= GOL
 
 # Check for 32-bit vs 64-bit
 PROC_TYPE = $(strip $(shell uname -m | grep 64))
@@ -57,4 +57,3 @@ $(PROJ): $(PROJ).c
 clean:
 	rm $(PROJ)
 
-## References code provided by Professor Dennis Nikitenko:: END
