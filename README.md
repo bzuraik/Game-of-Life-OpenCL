@@ -48,4 +48,7 @@ The command line arguments are:
       
       
  ![Face-GOL](https://user-images.githubusercontent.com/95400232/153684036-19d6a532-7880-48e7-95f7-df364a4ca05e.png)
+ 
+ 
+![face2-gol](https://user-images.githubusercontent.com/95400232/153684119-5c480c16-1672-4751-9f7f-1da913f4ce80.png)
 
