@@ -45,5 +45,7 @@ The command line arguments are:
       - 2: Spider. Pattern is XXXXXX
       - 3: Glider. Pattern is X XXX
       - 4: Face. Pattern is XXXXXXX
+      
+      
  ![Face-GOL](https://user-images.githubusercontent.com/95400232/153684036-19d6a532-7880-48e7-95f7-df364a4ca05e.png)
 
